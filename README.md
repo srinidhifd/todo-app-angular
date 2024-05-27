@@ -1,5 +1,5 @@
 # TodoAppAngular
-## This is practice app
+## This is todo angular app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
